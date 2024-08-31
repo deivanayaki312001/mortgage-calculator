@@ -73,6 +73,7 @@ body {
     border-radius: 10px;
     margin: 50px 0px;
     @media screen and (max-width: 750px) {
+        width: 80%;
         flex-direction: column;
         background-color: rgb(214, 214, 250);
         margin-left: 90px;
